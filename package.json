@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyanshsingh16/javascript-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyanshsingh16/javascript-learning/issues"
+  },
+  "homepage": "https://github.com/shreyanshsingh16/javascript-learning#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.0",
+    "react": "^19.0.0"
+  }
+}
